@@ -1,0 +1,30 @@
+.buttons {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2.4rem;
+}
+
+.btn {
+  width: 150%;
+  min-height: 5rem;
+  background-color: #382ae1;
+  border-radius: 1.1rem;
+  color: #fff;
+  font-family: inherit;
+  font-size: 1.5rem;
+  font-weight: 900;
+  border: none;
+}
+
+.btn:hover {
+  background-color: #766cf1;
+}
+
+.cancel {
+  color: #717fa6;
+  font-size: 1.5rem;
+  font-weight: 900;
+  margin-bottom: 3.2rem;
+}
