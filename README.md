@@ -1,8 +1,30 @@
-# React + Vite
+# Frontend Mentor - Order summary card solution
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Table of contents
 
-Currently, two official plugins are available:
+- [Overview](Interactive card details form)
+- [Built with](HTML, CSS, React.js)
+- [Author](Papuna Fshaveli)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### The challenge
+
+Users should be able to:
+
+- See hover states for interactive elements
+
+### Screenshot
+
+![](./src/assets/screenshot.PNG)
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+- React.js
+
+## Author
+
+- Github - [Papuna Fshaveli](https://github.com/papunafshaveli)
+- Facebook - [@papunafshaveli](https://www.facebook.com/papunafshaveli)
